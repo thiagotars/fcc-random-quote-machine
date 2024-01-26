@@ -1,0 +1,23 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+#quote-box {
+  box-sizing: border-box;
+  background-color: white;
+  width: 550px;
+  padding: 50px 40px;
+}
+
+#text {
+  font-size: 28px;
+  color: black;
+}
+
+#author {
+  font-size: 16px;
+  color: black;
+}
